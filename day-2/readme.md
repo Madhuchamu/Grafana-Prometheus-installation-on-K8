@@ -1,5 +1,5 @@
 # Monitoring
-
+# https://chatgpt.com/s/t_694b9cac913c81918bf69fca74821cba --- HERE IS THE LINK TO ALL THE CODES WITH DETAILS.
 ## Metrics vs Monitoring
 
 Metrics are measurements or data points that tell you what is happening. For example, the number of steps you walk each day, your heart rate, or the temperature outside—these are all metrics.
